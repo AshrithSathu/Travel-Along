@@ -3,7 +3,7 @@ export default function Stats({ items }) {
     if (!items.length) {
         return (
             <footer className="stats">
-                Please start adding adding items to your list
+                Please start adding items to your list
             </footer>
         )
     }
